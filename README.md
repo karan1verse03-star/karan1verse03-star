@@ -171,8 +171,6 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 
 <img src="https://picsum.photos/seed/proj2dark/700/380" width="100%" style="border-radius:12px;" />
 
-<br/><br/>
-
 ### ✦ &nbsp;Project Two
 
 > What it is, who it's for, and why it matters — in one sharp sentence.
@@ -190,8 +188,6 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 <td width="48%" valign="top">
 
 <img src="https://picsum.photos/seed/proj3dark/700/380" width="100%" style="border-radius:12px;" />
-
-<br/><br/>
 
 ### ✦ &nbsp;Project Three
 
