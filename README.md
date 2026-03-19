@@ -219,10 +219,4 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<br/>
-
----
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:f64f59,100:c471ed&height=120&section=footer&animation=fadeIn" width="100%" />
