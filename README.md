@@ -163,8 +163,6 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 </tr>
 </table>
 
-<br/><br/>
-
 <!-- ── Projects Two & Three — 50/50 ───────────────────────────────────────── -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
