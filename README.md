@@ -1,8 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:f64f59,100:12c2e9&height=160&section=header&text=Karan&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Frontend-focused%20Full%20Stack%20Developer%20•%20UI%20and%20Performance%20Driven&descSize=16&descAlignY=85&descColor=f0e6ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:f64f59,100:12c2e9&height=160&section=header&text=Karan+Pandey&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Frontend-Focused+Full+Stack+Developer&descSize=16&descAlignY=85&descColor=f0e6ff&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ INTRO ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════ INTRO ═══════════════════════════ -->
+
+<details open>
+<summary><h2>👋 &nbsp;Introduction</h2></summary>
+
+<br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -10,19 +15,17 @@
 
 ### Building Clean & Scalable Web Experiences 💻
 
-I'm a **frontend-focused full stack developer** who cares deeply about the craft — the kind of developer who notices when a transition is 10ms too slow, obsesses over typographic rhythm, and ships things that actually feel good to use.
+I'm a **frontend-focused full stack developer** who cares deeply about how things feel — not just how they work.
 
-I bridge the gap between design and engineering. From pixel-perfect UIs to scalable backend systems, I build with intention — every component, every interaction, every line of code.
-
-<br/>
+I build interfaces that are **fast, clean, and intentional**. From pixel-perfect UI to scalable backend systems, I focus on creating products that are smooth, efficient, and genuinely enjoyable to use.
 
 | | |
 |---|---|
-| 🧠 **Thinking about** | System Design · DX · Performance |
-| 🔨 **Building with** | React · Next.js · Node.js · Tailwind |
-| 📖 **Currently learning** | Advanced frontend architecture · WebGL |
-| 🎯 **End goal** | Products that feel *inevitable* |
-| 🌍 **Based in** | India |
+| 🧠 **Focus** | System Design · DX · Performance |
+| 🛠 **Stack** | React · Next.js · Node.js · Tailwind |
+| 📚 **Learning** | Advanced frontend architecture · WebGL |
+| 🎯 **Goal** | Products that feel *inevitable* |
+| 🌍 **Location** | India |
 
 </td>
 <td width="4%"></td>
@@ -42,15 +45,20 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
   <img src="https://picsum.photos/seed/karan3/460/220" width="32%" style="border-radius:10px;" />
 </p>
 
+</details>
+
 <br/>
 
 ---
 
 <br/>
 
-<!-- ══════════════════════════════════════════ STACK ══════════════════════════════════════════ -->
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
-## ⚡ Core Stack
+<details open>
+<summary><h2>⚡ &nbsp;Tech Stack</h2></summary>
+
+<br/>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel&theme=dark&perline=11" />
@@ -79,7 +87,7 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![ShadCN/UI](https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
@@ -117,11 +125,11 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 #### 🤖 AI / ML
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<br/>
+</details>
 
 </details>
 
@@ -131,18 +139,17 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 
 <br/>
 
-<!-- ════════════════════════════════════════ PROJECTS ════════════════════════════════════════ -->
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-## 🚀 Featured Projects
+<details open>
+<summary><h2>🚀 &nbsp;Featured Projects</h2></summary>
 
-<!-- ── Project One — Full Width ─────────────────────────────────────────────── -->
+<br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="48%" valign="middle">
-
 <img src="https://picsum.photos/seed/proj1dark/800/460" width="100%" style="border-radius:12px;" />
-
 </td>
 <td width="4%"></td>
 <td width="48%" valign="middle">
@@ -151,19 +158,15 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 
 > The flagship. A full-stack web application that solves X for Y — built for speed, designed for delight, and shipped with care.
 
-**Stack &nbsp;→** &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind` &nbsp;`MongoDB`
+**Stack →** `Next.js` `TypeScript` `Tailwind` `MongoDB`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com)
-&nbsp;
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-one)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) &nbsp;[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-one)
 
 </td>
 </tr>
 </table>
 
-<!-- ── Projects Two & Three — 50/50 ───────────────────────────────────────── -->
+<br/>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -175,13 +178,9 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 
 > What it is, who it's for, and why it matters — in one sharp sentence.
 
-**Stack &nbsp;→** &nbsp;`React` &nbsp;`Node.js` &nbsp;`Express` &nbsp;`PostgreSQL`
+**Stack →** `React` `Node.js` `Express` `PostgreSQL`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com)
-&nbsp;
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-two)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) &nbsp;[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-two)
 
 </td>
 <td width="4%"></td>
@@ -193,17 +192,15 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 
 > What it is, who it's for, and why it matters — in one sharp sentence.
 
-**Stack &nbsp;→** &nbsp;`React` &nbsp;`GSAP` &nbsp;`Three.js` &nbsp;`Tailwind`
+**Stack →** `React` `GSAP` `Three.js` `Tailwind`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com)
-&nbsp;
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-three)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-link.com) &nbsp;[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/project-three)
 
 </td>
 </tr>
 </table>
+
+</details>
 
 <br/>
 
@@ -211,12 +208,19 @@ I bridge the gap between design and engineering. From pixel-perfect UIs to scala
 
 <br/>
 
-<!-- ══════════════════════════════════════════ QUOTE ══════════════════════════════════════════ -->
+<!-- ═══════════════════════════ QUOTE ═══════════════════════════ -->
 
-## 🎴 Quote of the Moment
+<details open>
+<summary><h2>🎴 &nbsp;Quote of the Moment</h2></summary>
+
+<br/>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+</details>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:f64f59,100:c471ed&height=120&section=footer&animation=fadeIn" width="100%" />
