@@ -30,7 +30,7 @@ I build interfaces that are **fast, clean, and intentional**. From pixel-perfect
 </td>
 <td width="4%"></td>
 <td width="38%" align="center" valign="middle">
-  <img src="assets/demons-slayer-coding.png" width="100%" style="border-radius:16px;" />
+  <img src="assets/vertical-demon-slayer.png" width="100%" style="border-radius:16px;" />
 </td>
 </tr>
 </table>
