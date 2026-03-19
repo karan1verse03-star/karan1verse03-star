@@ -19,18 +19,18 @@ I'm a **frontend-focused full stack developer** who cares deeply about how thing
 
 I build interfaces that are **fast, clean, and intentional**. From pixel-perfect UI to scalable backend systems, I focus on creating products that are smooth, efficient, and genuinely enjoyable to use.
 
-| | |
-|---|---|
-| 🧠 **Focus** | System Design · DX · Performance |
-| 🛠 **Stack** | React · Next.js · Node.js · Tailwind |
+|                 |                                        |
+| --------------- | -------------------------------------- |
+| 🧠 **Focus**    | System Design · DX · Performance       |
+| 🛠 **Stack**    | React · Next.js · Node.js · Tailwind   |
 | 📚 **Learning** | Advanced frontend architecture · WebGL |
-| 🎯 **Goal** | Products that feel *inevitable* |
-| 🌍 **Location** | India |
+| 🎯 **Goal**     | Products that feel _inevitable_        |
+| 🌍 **Location** | India                                  |
 
 </td>
 <td width="4%"></td>
 <td width="38%" align="center" valign="middle">
-  <img src="https://picsum.photos/seed/karandev/400/420" width="100%" style="border-radius:16px;" />
+  <img src="assets/demons-slayer-coding.png" width="100%" style="border-radius:16px;" />
 </td>
 </tr>
 </table>
@@ -38,11 +38,11 @@ I build interfaces that are **fast, clean, and intentional**. From pixel-perfect
 <br/>
 
 <p align="center">
-  <img src="https://picsum.photos/seed/karan1/460/220" width="32%" style="border-radius:10px;" />
+  <img src="assets/naruto-coding-birds.png" width="32%" style="border-radius:10px;" />
   &nbsp;
-  <img src="https://picsum.photos/seed/karan2/460/220" width="32%" style="border-radius:10px;" />
+  <img src="assets/luffy-coding.png" width="32%" style="border-radius:10px;" />
   &nbsp;
-  <img src="https://picsum.photos/seed/karan3/460/220" width="32%" style="border-radius:10px;" />
+  <img src="assets/asta-and-zoro-coding.png" width="32%" style="border-radius:10px;" />
 </p>
 
 </details>
