@@ -38,7 +38,7 @@ I build interfaces that are **fast, clean, and intentional**. From pixel-perfect
 <br/>
 
 <p align="center">
-  <img src="assets/naruto-coding-birds.png" width="32%" style="border-radius:10px;" />
+  <img src="assets/naruto-coding-2.png" width="32%" style="border-radius:10px;" />
   &nbsp;
   <img src="assets/luffy-coding.png" width="32%" style="border-radius:10px;" />
   &nbsp;
