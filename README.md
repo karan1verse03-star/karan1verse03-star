@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:f64f59,100:12c2e9&height=160&section=header&text=Karan&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Frontend-focused%20Full%20Stack%20Developer&descSize=16&descAlignY=85&descColor=f0e6ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:f64f59,100:12c2e9&height=160&section=header&text=Karan&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Frontend-focused%20Full%20Stack%20Developer%20•%20UI%20and%20Performance%20Driven&descSize=16&descAlignY=85&descColor=f0e6ff&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -8,7 +8,7 @@
 <tr>
 <td width="58%" valign="middle">
 
-### Hey, I'm Karan 👋
+### Building Clean & Scalable Web Experiences 💻
 
 I'm a **frontend-focused full stack developer** who cares deeply about the craft — the kind of developer who notices when a transition is 10ms too slow, obsesses over typographic rhythm, and ships things that actually feel good to use.
 
