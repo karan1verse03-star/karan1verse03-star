@@ -9,7 +9,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
 ### I Build Complete, Scalable Products 💻
 
@@ -17,18 +17,18 @@ I'm a **full stack developer** who owns every layer of a product — from databa
 
 I don't just build features. I design systems, make architecture decisions, and ship products that are fast, reliable, and genuinely enjoyable to use. Every line I write connects to an outcome.
 
-|                 |                                              |
-| --------------- | -------------------------------------------- |
-| 🧠 **Focus**    | System Design · Architecture · DX            |
+|                 |                                                   |
+| --------------- | ------------------------------------------------- |
+| 🧠 **Focus**    | System Design · Architecture · DX                 |
 | 🛠 **Stack**    | React · Next.js · Node.js · PostgreSQL · Tailwind |
-| 📚 **Learning** | Distributed systems · WebGL · AI integration |
-| 🎯 **Goal**     | Products that feel _inevitable_              |
-| 🌍 **Location** | India                                        |
+| 📚 **Learning** | Distributed systems · WebGL · AI integration      |
+| 🎯 **Goal**     | Products that feel _inevitable_                   |
+| 🌍 **Location** | India                                             |
 
 </td>
 <td width="4%"></td>
-<td width="38%" align="center" valign="middle">
-  <img src="assets/naruto-gifs/naruto-8.gif" width="500" style="width:500px;max-width:100%;height:auto;border-radius:16px;" />
+<td width="40%" align="center" valign="middle">
+  <img src="assets/naruto-gifs/naruto-8.gif" width="100%" style="width:500px;max-width:100%;height:auto;border-radius:16px;" />
 </td>
 </tr>
 </table>
@@ -58,16 +58,16 @@ I don't just build features. I design systems, make architecture decisions, and 
 
 <br/>
 
-| Step | What I Do |
-| ---- | --------- |
-| **Problem → Clarity** | I define the real problem before writing a single line. No ambiguous scope, no wasted builds. |
-| **Scope → MVP First** | I cut to the core. I ship the smallest version that proves the idea, then expand from there. |
-| **System Design** | I map the full architecture upfront — data models, API contracts, auth flows, and edge cases — before I touch the code. |
-| **Build → End-to-End** | I own the entire stack. I wire the database, build the API, and connect it to the interface myself. |
-| **Performance & DX** | I optimize for speed and maintainability in parallel. Clean code isn't a luxury — it's the baseline. |
+| Step                      | What I Do                                                                                                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Problem → Clarity**     | I define the real problem before writing a single line. No ambiguous scope, no wasted builds.                               |
+| **Scope → MVP First**     | I cut to the core. I ship the smallest version that proves the idea, then expand from there.                                |
+| **System Design**         | I map the full architecture upfront — data models, API contracts, auth flows, and edge cases — before I touch the code.     |
+| **Build → End-to-End**    | I own the entire stack. I wire the database, build the API, and connect it to the interface myself.                         |
+| **Performance & DX**      | I optimize for speed and maintainability in parallel. Clean code isn't a luxury — it's the baseline.                        |
 | **Polish the Experience** | I close the gap between "it works" and "it feels right." Transitions, feedback states, load behavior — every detail counts. |
-| **Ship Fast** | I deploy early and often. Real environments surface real problems. |
-| **Iterate Relentlessly** | I treat every shipped version as a hypothesis. I watch how it performs, learn, and improve. |
+| **Ship Fast**             | I deploy early and often. Real environments surface real problems.                                                          |
+| **Iterate Relentlessly**  | I treat every shipped version as a hypothesis. I watch how it performs, learn, and improve.                                 |
 
 </details>
 
