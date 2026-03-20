@@ -30,7 +30,7 @@ I build interfaces that are **fast, clean, and intentional**. From pixel-perfect
 </td>
 <td width="4%"></td>
 <td width="38%" align="center" valign="middle">
-  <img src="assets/vertical-demon-slayer.png" width="100%" style="border-radius:16px;" />
+  <img src="assets/naruto-gifs/naruto-8.gif" width="500" style="width:500px;max-width:100%;height:auto;border-radius:16px;" />
 </td>
 </tr>
 </table>
@@ -38,11 +38,11 @@ I build interfaces that are **fast, clean, and intentional**. From pixel-perfect
 <br/>
 
 <p align="center">
-  <img src="assets/naruto-coding-2.png" width="32%" style="border-radius:10px;" />
+  <img src="assets/one-piece-gifs/one-piece-10.gif" width="500" style="width:500px;max-width:100%;height:auto;border-radius:10px;" />
   &nbsp;
-  <img src="assets/luffy-coding.png" width="32%" style="border-radius:10px;" />
+  <img src="assets/demon-slayer-gifs/slayer-1.gif" width="500" style="width:500px;max-width:100%;height:auto;border-radius:10px;" />
   &nbsp;
-  <img src="assets/asta-and-zoro-coding.png" width="32%" style="border-radius:10px;" />
+  <img src="assets/demon-slayer-gifs/slayer-11.gif" width="500" style="width:500px;max-width:100%;height:auto;border-radius:10px;" />
 </p>
 
 </details>
