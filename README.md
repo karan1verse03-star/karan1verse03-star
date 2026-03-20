@@ -35,7 +35,7 @@ I don't just build features. I design systems, make architecture decisions, and 
 
 <br/>
 
-<p align="center">
+<p align="center" width="100%">
   <img src="assets/one-piece-gifs/one-piece-10.gif" width="33%" style="width:500px;max-width:100%;height:auto;border-radius:10px;" />
   &nbsp;
   <img src="assets/demon-slayer-gifs/slayer-1.gif" width="33%" style="width:500px;max-width:100%;height:auto;border-radius:10px;" />
