@@ -3,6 +3,7 @@ const path = require("path");
 
 const baseAssetsDir = path.join(__dirname, "../assets");
 
+// 🔁 Collect all GIF paths recursively
 function collectGifPaths(directory) {
   if (!fs.existsSync(directory)) return [];
 
@@ -15,12 +16,7 @@ function collectGifPaths(directory) {
     if (entry.isDirectory()) {
       gifPaths = gifPaths.concat(collectGifPaths(fullPath));
     } else if (entry.name.toLowerCase().endsWith(".gif")) {
-      const relativePath = path
-        .relative(path.join(__dirname, ".."), fullPath)
-        .split(path.sep)
-        .join("/");
-
-      gifPaths.push(`/${relativePath}`);
+      gifPaths.push(fullPath);
     }
   }
 
@@ -29,7 +25,7 @@ function collectGifPaths(directory) {
 
 module.exports = (req, res) => {
   try {
-    const { type } = req.query;
+    const { type, slot } = req.query;
 
     // 🎯 Select folder based on type
     let targetDir = baseAssetsDir;
@@ -49,16 +45,26 @@ module.exports = (req, res) => {
       return res.end("No GIFs found");
     }
 
-    const randomGif = gifPaths[Math.floor(Math.random() * gifPaths.length)];
+    // 🎲 Better randomness (avoids collision between slots)
+    const seed = parseInt(slot || 0) + Date.now();
+    const index = seed % gifPaths.length;
+    const selectedGif = gifPaths[index];
 
-    const cacheBuster = Date.now();
+    // 📦 Read and send actual GIF (NO REDIRECT)
+    const gifBuffer = fs.readFileSync(selectedGif);
 
-    res.statusCode = 307;
-    res.setHeader("Cache-Control", "no-store");
-    res.setHeader("Location", `${randomGif}?t=${cacheBuster}`);
-    res.end();
+    res.statusCode = 200;
+    res.setHeader("Content-Type", "image/gif");
+    res.setHeader(
+      "Cache-Control",
+      "no-store, no-cache, must-revalidate, proxy-revalidate",
+    );
+    res.setHeader("Pragma", "no-cache");
+    res.setHeader("Expires", "0");
+
+    res.end(gifBuffer);
   } catch (err) {
     res.statusCode = 500;
-    res.end("Error loading GIFs");
+    res.end("Error loading GIF");
   }
 };
