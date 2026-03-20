@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:f64f59,100:12c2e9&height=160&section=header&text=Karan+Pandey&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Frontend-Focused+Full+Stack+Developer&descSize=16&descAlignY=85&descColor=f0e6ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c471ed,50:f64f59,100:12c2e9&height=160&section=header&text=Karan+Pandey&fontSize=52&fontColor=ffffff&fontAlignY=65&desc=Full+Stack+Developer+%7C+Product+Builder&descSize=16&descAlignY=85&descColor=f0e6ff&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -13,19 +13,19 @@
 <tr>
 <td width="58%" valign="middle">
 
-### Building Clean & Scalable Web Experiences 💻
+### I Build Complete, Scalable Products 💻
 
-I'm a **frontend-focused full stack developer** who cares deeply about how things feel — not just how they work.
+I'm a **full stack developer** who owns every layer of a product — from database schema and API design to the interface people actually touch.
 
-I build interfaces that are **fast, clean, and intentional**. From pixel-perfect UI to scalable backend systems, I focus on creating products that are smooth, efficient, and genuinely enjoyable to use.
+I don't just build features. I design systems, make architecture decisions, and ship products that are fast, reliable, and genuinely enjoyable to use. Every line I write connects to an outcome.
 
-|                 |                                        |
-| --------------- | -------------------------------------- |
-| 🧠 **Focus**    | System Design · DX · Performance       |
-| 🛠 **Stack**    | React · Next.js · Node.js · Tailwind   |
-| 📚 **Learning** | Advanced frontend architecture · WebGL |
-| 🎯 **Goal**     | Products that feel _inevitable_        |
-| 🌍 **Location** | India                                  |
+|                 |                                              |
+| --------------- | -------------------------------------------- |
+| 🧠 **Focus**    | System Design · Architecture · DX            |
+| 🛠 **Stack**    | React · Next.js · Node.js · PostgreSQL · Tailwind |
+| 📚 **Learning** | Distributed systems · WebGL · AI integration |
+| 🎯 **Goal**     | Products that feel _inevitable_              |
+| 🌍 **Location** | India                                        |
 
 </td>
 <td width="4%"></td>
@@ -44,6 +44,53 @@ I build interfaces that are **fast, clean, and intentional**. From pixel-perfect
   &nbsp;
   <img src="assets/asta-and-zoro-coding.png" width="32%" style="border-radius:10px;" />
 </p>
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════ HOW I BUILD ═══════════════════════════ -->
+
+<details open>
+<summary><h2>⚙️ &nbsp;How I Build Products</h2></summary>
+
+<br/>
+
+| Step | What I Do |
+| ---- | --------- |
+| **Problem → Clarity** | I define the real problem before writing a single line. No ambiguous scope, no wasted builds. |
+| **Scope → MVP First** | I cut to the core. I ship the smallest version that proves the idea, then expand from there. |
+| **System Design** | I map the full architecture upfront — data models, API contracts, auth flows, and edge cases — before I touch the code. |
+| **Build → End-to-End** | I own the entire stack. I wire the database, build the API, and connect it to the interface myself. |
+| **Performance & DX** | I optimize for speed and maintainability in parallel. Clean code isn't a luxury — it's the baseline. |
+| **Polish the Experience** | I close the gap between "it works" and "it feels right." Transitions, feedback states, load behavior — every detail counts. |
+| **Ship Fast** | I deploy early and often. Real environments surface real problems. |
+| **Iterate Relentlessly** | I treat every shipped version as a hypothesis. I watch how it performs, learn, and improve. |
+
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════════════════ VALUES ═══════════════════════════ -->
+
+<details open>
+<summary><h2>🧭 &nbsp;What I Value</h2></summary>
+
+<br/>
+
+- **Clean architecture over quick hacks** — I build things I'm not afraid to revisit six months later.
+- **Speed with quality** — I move fast, but I don't leave landmines. Both matter.
+- **Systems thinking** — I design for the full lifecycle, not just the happy path.
+- **Simple, deeply considered products** — The best solutions aren't complicated. They're clear.
+- **Ownership** — I take responsibility for outcomes, not just outputs.
 
 </details>
 
