@@ -3,7 +3,6 @@ const path = require("path");
 
 const baseAssetsDir = path.join(__dirname, "../assets");
 
-// 🔁 Recursively collect GIF file paths
 function collectGifPaths(directory) {
   if (!fs.existsSync(directory)) return [];
 
@@ -27,7 +26,6 @@ module.exports = (req, res) => {
   try {
     const { type, slot } = req.query;
 
-    // 🎯 Select target folder
     let targetDir = baseAssetsDir;
 
     if (type === "naruto") {
@@ -45,19 +43,20 @@ module.exports = (req, res) => {
       return res.end("No GIFs found");
     }
 
-    // 🎲 Stable randomness (prevents collisions across tiles)
-    const seed = parseInt(slot || "0") + Date.now();
-    const index = seed % gifPaths.length;
-    const selectedGif = gifPaths[index];
+    // 🔥 Stable randomness (IMPORTANT FIX)
+    const seed = parseInt(slot || "0");
+    const index =
+      (seed + Math.floor(Math.random() * gifPaths.length)) % gifPaths.length;
 
-    // 📦 Read file safely
+    const selectedGif = gifPaths[index];
     const gifBuffer = fs.readFileSync(selectedGif);
 
-    // ✅ Clean headers for GitHub camo compatibility
     res.statusCode = 200;
     res.setHeader("Content-Type", "image/gif");
     res.setHeader("Content-Length", gifBuffer.length);
-    res.setHeader("Cache-Control", "public, max-age=0, must-revalidate");
+
+    // 🔥 THIS is the key change
+    res.setHeader("Cache-Control", "public, max-age=60");
 
     res.end(gifBuffer);
   } catch (err) {
