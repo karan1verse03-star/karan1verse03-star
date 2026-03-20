@@ -33,15 +33,19 @@ I don't just build features. I design systems, make architecture decisions, and 
 </tr>
 </table>
 
-<br/>
-
-<p align="center">
-  <img src="assets/one-piece-gifs/one-piece-10.gif" width="32%" style="width:500px;max-width:100%;height:200px;border-radius:10px;" />
-  &nbsp;
-  <img src="assets/demon-slayer-gifs/slayer-1.gif" width="32%" style="width:500px;max-width:100%;height:200px;border-radius:10px;" />
-  &nbsp;
-  <img src="assets/demon-slayer-gifs/slayer-11.gif" width="32%" style="width:500px;max-width:100%;height:200px;border-radius:10px;" />
-</p>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+  <img src="assets/one-piece-gifs/one-piece-10.gif" width="100%" style="border-radius:12px;" />
+</td>
+<td width="33%" align="center">
+  <img src="assets/demon-slayer-gifs/slayer-1.gif" width="100%" style="border-radius:12px;" />
+</td>
+<td width="33%" align="center">
+  <img src="assets/demon-slayer-gifs/slayer-11.gif" width="100%" style="border-radius:12px;" />
+</td>
+</tr>
+</table>
 
 </details>
 
