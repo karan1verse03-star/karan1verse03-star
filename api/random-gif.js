@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const baseAssetsDir = path.join(__dirname, "../assets");
+const baseAssetsDir = path.join(__dirname, "../assets-optimized");
 
 function collectGifPaths(directory) {
   if (!fs.existsSync(directory)) return [];
