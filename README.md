@@ -7,8 +7,6 @@
 <details open>
 <summary><h2>👋 &nbsp;Introduction</h2></summary>
 
-<br/>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="58%" valign="middle">
