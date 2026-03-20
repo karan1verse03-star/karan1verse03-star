@@ -44,9 +44,15 @@ module.exports = (req, res) => {
     }
 
     // 🔥 Stable randomness (IMPORTANT FIX)
+    const now = Date.now();
+
+    // 🔥 change every 15 seconds
+    const timeBucket = Math.floor(now / (1000 * 15));
+
     const seed = parseInt(slot || "0");
-    const index =
-      (seed + Math.floor(Math.random() * gifPaths.length)) % gifPaths.length;
+
+    // deterministic rotation
+    const index = (timeBucket + seed) % gifPaths.length;
 
     const selectedGif = gifPaths[index];
     const gifBuffer = fs.readFileSync(selectedGif);
