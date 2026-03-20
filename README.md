@@ -36,13 +36,13 @@ I don't just build features. I design systems, make architecture decisions, and 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
-  <img src="https://karan1verse03-star.vercel.app/api/random-gif?slot=1" width="100%" style="border-radius:12px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif?type=naruto&slot=1" width="100%" style="border-radius:12px;" />
 </td>
 <td width="33%" align="center">
-  <img src="https://karan1verse03-star.vercel.app/api/random-gif?slot=2" width="100%" style="border-radius:12px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif?type=onepiece&slot=2" width="100%" style="border-radius:12px;" />
 </td>
 <td width="33%" align="center">
-  <img src="https://karan1verse03-star.vercel.app/api/random-gif?slot=3" width="100%" style="border-radius:12px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif?type=demonslayer&slot=3" width="100%" style="border-radius:12px;" />
 </td>
 </tr>
 </table>
