@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const assetsDir = path.join(__dirname, "../assets");
+const baseAssetsDir = path.join(__dirname, "../assets");
 
 function collectGifPaths(directory) {
   if (!fs.existsSync(directory)) return [];
@@ -29,7 +29,20 @@ function collectGifPaths(directory) {
 
 module.exports = (req, res) => {
   try {
-    const gifPaths = collectGifPaths(assetsDir);
+    const { type } = req.query;
+
+    // 🎯 Select folder based on type
+    let targetDir = baseAssetsDir;
+
+    if (type === "naruto") {
+      targetDir = path.join(baseAssetsDir, "naruto-gifs");
+    } else if (type === "onepiece") {
+      targetDir = path.join(baseAssetsDir, "one-piece-gifs");
+    } else if (type === "demonslayer") {
+      targetDir = path.join(baseAssetsDir, "demon-slayer-gifs");
+    }
+
+    const gifPaths = collectGifPaths(targetDir);
 
     if (gifPaths.length === 0) {
       res.statusCode = 404;
@@ -38,9 +51,11 @@ module.exports = (req, res) => {
 
     const randomGif = gifPaths[Math.floor(Math.random() * gifPaths.length)];
 
+    const cacheBuster = Date.now();
+
     res.statusCode = 307;
     res.setHeader("Cache-Control", "no-store");
-    res.setHeader("Location", randomGif);
+    res.setHeader("Location", `${randomGif}?t=${cacheBuster}`);
     res.end();
   } catch (err) {
     res.statusCode = 500;

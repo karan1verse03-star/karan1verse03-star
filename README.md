@@ -28,7 +28,7 @@ I don't just build features. I design systems, make architecture decisions, and 
 </td>
 <td width="4%"></td>
 <td width="40%" align="center" valign="middle">
-  <img src="assets/naruto-gifs/naruto-8.gif" width="100%" style="width:500px;max-width:100%;height:auto;border-radius:16px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif" width="100%" style="border-radius:16px;" />
 </td>
 </tr>
 </table>
@@ -36,13 +36,13 @@ I don't just build features. I design systems, make architecture decisions, and 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
-  <img src="assets/one-piece-gifs/one-piece-10.gif" width="100%" style="border-radius:12px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif?slot=1" width="100%" style="border-radius:12px;" />
 </td>
 <td width="33%" align="center">
-  <img src="assets/demon-slayer-gifs/slayer-1.gif" width="100%" style="border-radius:12px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif?slot=2" width="100%" style="border-radius:12px;" />
 </td>
 <td width="33%" align="center">
-  <img src="assets/demon-slayer-gifs/slayer-11.gif" width="100%" style="border-radius:12px;" />
+  <img src="https://karan1verse03-star.vercel.app/api/random-gif?slot=3" width="100%" style="border-radius:12px;" />
 </td>
 </tr>
 </table>
